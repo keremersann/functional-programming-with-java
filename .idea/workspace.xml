@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbde99b4-082e-4ddd-a58e-30c17c6bf06b" name="Changes" comment="structured vs functional way of printing the elements in the list">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programming/FP01Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/FP01Functional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programming/FP01Structured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/FP01Structured.java" afterDir="false" />
-    </list>
+    <list default="true" id="fbde99b4-082e-4ddd-a58e-30c17c6bf06b" name="Changes" comment="Adding filter feature, which enables us to select the appropriate elements" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,11 +90,19 @@
       <option name="project" value="LOCAL" />
       <updated>1684231256127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding filter feature, which enables us to select the appropriate elements">
+      <created>1684231779237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684231779237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="structured vs functional way of printing the elements in the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="structured vs functional way of printing the elements in the list" />
+    <MESSAGE value="Adding filter feature, which enables us to select the appropriate elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding filter feature, which enables us to select the appropriate elements" />
   </component>
 </project>
