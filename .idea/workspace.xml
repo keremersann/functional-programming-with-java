@@ -4,22 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbde99b4-082e-4ddd-a58e-30c17c6bf06b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functional-programming-with-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="fbde99b4-082e-4ddd-a58e-30c17c6bf06b" name="Changes" comment="structured vs functional way of printing the elements in the list">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programming/FP01Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/FP01Functional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programming/FP01Structured.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/FP01Structured.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ps0bfWaRoZN3Agh3wjM8F01O6M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,6 +39,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="programming" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.FP01Functional">
     <configuration name="FP01Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.FP01Functional" />
@@ -76,6 +87,18 @@
       <option name="presentableId" value="Default" />
       <updated>1684230554498</updated>
     </task>
+    <task id="LOCAL-00001" summary="structured vs functional way of printing the elements in the list">
+      <created>1684231256127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684231256127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="structured vs functional way of printing the elements in the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="structured vs functional way of printing the elements in the list" />
   </component>
 </project>
