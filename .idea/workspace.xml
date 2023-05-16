@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbde99b4-082e-4ddd-a58e-30c17c6bf06b" name="Changes" comment="lambda expression is added for filtering the elements">
-      <change afterPath="$PROJECT_DIR$/src/programming/exercises/Exercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/exercises/Exercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/exercises/Exercise03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/exercises/Exercise04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fbde99b4-082e-4ddd-a58e-30c17c6bf06b" name="Changes" comment="map function is used">
+      <change afterPath="$PROJECT_DIR$/src/programming/exercises/Exercise05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,33 +42,7 @@
       <recent name="programming" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FP01Functional">
-    <configuration name="Exercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.exercises.Exercise01" />
-      <module name="functional-programming-with-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercise02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.exercises.Exercise02" />
-      <module name="functional-programming-with-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programming.exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Exercise06">
     <configuration name="Exercise03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.exercises.Exercise03" />
       <module name="functional-programming-with-java" />
@@ -99,6 +69,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercise05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.exercises.Exercise05" />
+      <module name="functional-programming-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.exercises.Exercise06" />
+      <module name="functional-programming-with-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FP01Functional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programming.FP01Functional" />
       <module name="functional-programming-with-java" />
@@ -114,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise06" />
+        <item itemvalue="Application.Exercise05" />
         <item itemvalue="Application.FP01Functional" />
         <item itemvalue="Application.Exercise04" />
         <item itemvalue="Application.Exercise03" />
-        <item itemvalue="Application.Exercise02" />
-        <item itemvalue="Application.Exercise01" />
       </list>
     </recent_temporary>
   </component>
@@ -152,13 +148,29 @@
       <option name="project" value="LOCAL" />
       <updated>1684232078141</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercises are done">
+      <created>1684232708319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684232708319</updated>
+    </task>
+    <task id="LOCAL-00005" summary="map function is used">
+      <created>1684232981157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684232981157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="structured vs functional way of printing the elements in the list" />
     <MESSAGE value="Adding filter feature, which enables us to select the appropriate elements" />
     <MESSAGE value="lambda expression is added for filtering the elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expression is added for filtering the elements" />
+    <MESSAGE value="Exercises are done" />
+    <MESSAGE value="map function is used" />
+    <option name="LAST_COMMIT_MESSAGE" value="map function is used" />
   </component>
 </project>
